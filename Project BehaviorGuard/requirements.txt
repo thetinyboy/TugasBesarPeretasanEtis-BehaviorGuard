@@ -1,0 +1,5 @@
+flask
+psutil
+scikit-learn
+joblib
+requests
